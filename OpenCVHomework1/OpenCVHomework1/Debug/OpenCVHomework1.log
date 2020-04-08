@@ -1,0 +1,9 @@
+﻿  Homework1.cpp
+c:\users\은호\documents\visual studio 2017\projects\opencvhomework1\opencvhomework1\homework1.cpp(57): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\은호\documents\visual studio 2017\projects\opencvhomework1\opencvhomework1\homework1.cpp(66): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\은호\documents\visual studio 2017\projects\opencvhomework1\opencvhomework1\homework1.cpp(75): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\은호\documents\visual studio 2017\projects\opencvhomework1\opencvhomework1\homework1.cpp(84): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\은호\documents\visual studio 2017\projects\opencvhomework1\opencvhomework1\homework1.cpp(103): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\은호\documents\visual studio 2017\projects\opencvhomework1\opencvhomework1\homework1.cpp(138): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\은호\documents\visual studio 2017\projects\opencvhomework1\opencvhomework1\homework1.cpp(139): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OpenCVHomework1.vcxproj -> C:\Users\은호\Documents\Visual Studio 2017\Projects\OpenCVHomework1\Debug\OpenCVHomework1.exe
