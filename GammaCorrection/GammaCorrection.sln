@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GammaCorrection", "GammaCorrection\GammaCorrection.vcxproj", "{AAD1825F-BF04-4286-AF10-2D5595899B6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAD1825F-BF04-4286-AF10-2D5595899B6B}.Debug|x64.ActiveCfg = Debug|x64
+		{AAD1825F-BF04-4286-AF10-2D5595899B6B}.Debug|x64.Build.0 = Debug|x64
+		{AAD1825F-BF04-4286-AF10-2D5595899B6B}.Debug|x86.ActiveCfg = Debug|Win32
+		{AAD1825F-BF04-4286-AF10-2D5595899B6B}.Debug|x86.Build.0 = Debug|Win32
+		{AAD1825F-BF04-4286-AF10-2D5595899B6B}.Release|x64.ActiveCfg = Release|x64
+		{AAD1825F-BF04-4286-AF10-2D5595899B6B}.Release|x64.Build.0 = Release|x64
+		{AAD1825F-BF04-4286-AF10-2D5595899B6B}.Release|x86.ActiveCfg = Release|Win32
+		{AAD1825F-BF04-4286-AF10-2D5595899B6B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26E14B97-F758-48C5-82BE-24A1D749454D}
+	EndGlobalSection
+EndGlobal
