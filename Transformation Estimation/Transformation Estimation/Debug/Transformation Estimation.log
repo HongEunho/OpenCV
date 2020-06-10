@@ -1,0 +1,11 @@
+﻿  TransformEstimationWithMouse.cpp
+c:\users\은호\source\repos\transformation estimation\transformation estimation\transformestimationwithmouse.cpp(44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\은호\source\repos\transformation estimation\transformation estimation\transformestimationwithmouse.cpp(57): warning C4244: '/=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\은호\source\repos\transformation estimation\transformation estimation\transformestimationwithmouse.cpp(58): warning C4244: '/=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\은호\source\repos\transformation estimation\transformation estimation\transformestimationwithmouse.cpp(62): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\은호\source\repos\transformation estimation\transformation estimation\transformestimationwithmouse.cpp(85): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\은호\source\repos\transformation estimation\transformation estimation\transformestimationwithmouse.cpp(86): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\은호\source\repos\transformation estimation\transformation estimation\transformestimationwithmouse.cpp(88): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\은호\source\repos\transformation estimation\transformation estimation\transformestimationwithmouse.cpp(89): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\은호\source\repos\transformation estimation\transformation estimation\transformestimationwithmouse.cpp(106): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Transformation Estimation.vcxproj -> C:\Users\은호\source\repos\Transformation Estimation\Debug\Transformation Estimation.exe
