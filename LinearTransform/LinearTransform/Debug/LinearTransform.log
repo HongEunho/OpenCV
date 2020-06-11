@@ -1,0 +1,16 @@
+﻿  LinearTransform.cpp
+c:\users\은호\source\repos\lineartransform\lineartransform\lineartransform.cpp(12): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\은호\source\repos\lineartransform\lineartransform\lineartransform.cpp(122): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\은호\source\repos\lineartransform\lineartransform\lineartransform.cpp(124): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\은호\source\repos\lineartransform\lineartransform\lineartransform.cpp(141): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\은호\source\repos\lineartransform\lineartransform\lineartransform.cpp(142): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\은호\source\repos\lineartransform\lineartransform\lineartransform.cpp(91): warning C4101: 'M' :참조되지 않은 지역 변수입니다.
+c:\users\은호\source\repos\lineartransform\lineartransform\lineartransform.cpp(91): warning C4101: 'M2' :참조되지 않은 지역 변수입니다.
+c:\users\은호\source\repos\lineartransform\lineartransform\lineartransform.cpp(91): warning C4101: 'M4' :참조되지 않은 지역 변수입니다.
+c:\users\은호\source\repos\lineartransform\lineartransform\lineartransform.cpp(91): warning C4101: 'M1' :참조되지 않은 지역 변수입니다.
+c:\users\은호\source\repos\lineartransform\lineartransform\lineartransform.cpp(91): warning C4101: 'M3' :참조되지 않은 지역 변수입니다.
+c:\users\은호\source\repos\lineartransform\lineartransform\lineartransform.cpp(123): warning C4101: 'IM2' :참조되지 않은 지역 변수입니다.
+c:\users\은호\source\repos\lineartransform\lineartransform\lineartransform.cpp(123): warning C4101: 'IM3' :참조되지 않은 지역 변수입니다.
+c:\users\은호\source\repos\lineartransform\lineartransform\lineartransform.cpp(123): warning C4101: 'IM4' :참조되지 않은 지역 변수입니다.
+c:\users\은호\source\repos\lineartransform\lineartransform\lineartransform.cpp(123): warning C4101: 'IM1' :참조되지 않은 지역 변수입니다.
+  LinearTransform.vcxproj -> C:\Users\은호\source\repos\LinearTransform\Debug\LinearTransform.exe
